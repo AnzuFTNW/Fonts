@@ -1,2 +1,2 @@
-# fonts
- library for my fonts
+# assets
+ library for my assets
